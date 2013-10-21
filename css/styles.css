@@ -1,0 +1,55 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #70892B;
+	background: #70892B url("../img/tree_bark.png");
+}
+
+
+p {
+	line-height: 2;
+}
+
+	
+	
+.grid_4 {
+	font-size: 12px;
+	padding: 10px 10px;
+	background-color: #7cb317;
+	color: white;
+}
+
+
+
+	 
+h1, h3 {
+	color: #faca69;
+	text-transform: uppercase;
+	border-bottom: 2px solid black;
+	
+	}
+	
+h3 {
+	padding: 0 0 10px 0;
+	
+}
+
+
+
+
+	
+img {
+	box-shadow: 0 0 20px #342C19
+	}
+
+
+	
+.container_12 {
+	text-align: left;
+	background-color: #61563f
+	}
+	
+	
+/* Helper Classes */
+.showgrid {
+        background: url("../img/12_col.gif") !important;
+}
